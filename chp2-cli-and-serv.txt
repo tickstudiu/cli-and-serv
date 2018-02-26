@@ -1,0 +1,25 @@
+chp2
+
+hybrid p2p
+unstructured p2p
+structured p2p
+
+napster -> centralized => center(กลาง)
+gnutella -> flooded queries => flood(น้ำท่วม) + query(สอบถาม)
+freenet,chord -> routed queries => route(เส้นทาง) + query
+
+----------------------------------------------
+hybrid p2p = napstar = centralized คือ มี server เป็นตัวกลางเก็บ table ของ location file
+unstructured 2p2 = gnutella = flooded queries คือ เก็บข้อมูลแบบสุ่ม
+structured p2p = freenet,chord = routed queres คือ เก็บข้อมูลอย่างมีแบบแผน
+----------------------------------------------
+
+Finger table != Hash table
+
+Finger Table =>
+Hash Table => https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%AE%E0%B8%8A
+DHT => https://werapun.com/p2p-chord-protocol-1a87237a33da
+SHA-1 => https://werapun.com/p2p-chord-protocol-1a87237a33da
+Chord Lookup => https://werapun.com/p2p-chord-protocol-1a87237a33da
+BitTorrent => http://mew-mild4048.blogspot.com/2011/01/peer-to-peer.html
+
