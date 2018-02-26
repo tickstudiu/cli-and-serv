@@ -4,14 +4,14 @@ hybrid p2p
 unstructured p2p
 structured p2p
 
-napster -> centralized => center(��ҧ)
-gnutella -> flooded queries => flood(��ӷ���) + query(�ͺ���)
-freenet,chord -> routed queries => route(��鹷ҧ) + query
+napster -> centralized => center(กลาง)
+gnutella -> flooded queries => flood(น้ำท่วม) + query(สอบถาม)
+freenet,chord -> routed queries => route(เส้นทาง) + query
 
 ----------------------------------------------
-hybrid p2p = napstar = centralized ��� �� server �繵�ǡ�ҧ�� table �ͧ location file
-unstructured 2p2 = gnutella = flooded queries ��� �红�����Ẻ����
-structured p2p = freenet,chord = routed queres ��� �红��������ҧ��ẺἹ
+hybrid p2p = napstar = centralized คือ มี server เป็นตัวกลางเก็บ table ของ location file
+unstructured 2p2 = gnutella = flooded queries คือ เก็บข้อมูลแบบสุ่ม
+structured p2p = freenet,chord = routed queres คือ เก็บข้อมูลอย่างมีแบบแผน
 ----------------------------------------------
 
 Finger table != Hash table
